@@ -90,7 +90,7 @@ Enter name of role to add: sammy
 Shall the new role be a superuser? (y/n) y
 
 ```
-============================================================================================
+====================================================================================
 
 ## Creating user, database and adding access on PostgreSQL
 
